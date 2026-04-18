@@ -1,4 +1,4 @@
-# ai-advanced-chatbox-application.
+# ai-advanced-chatbox-application
 
 This is a simple AI chatbox made using HTML, CSS, and JavaScript. 
 It allows users to send messages and get instant responses.
